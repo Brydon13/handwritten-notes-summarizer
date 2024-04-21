@@ -15,8 +15,7 @@ This was a group project for the ENSE412 - Machine Learning course at the Univer
 - **Highlight Segmentation:** Identify and emphasize segments of the handwritten notes that are highlighted, aiding in the summarization process.
 
 ## Usage
-This project was created with limited time and resources, and therefore has issues dealing with certain types of input. 
-Feel free to clone and experiment with the model, but know that the results may be underwhleming. The process goes as follows:
+This project was created with limited time and resources, and therefore has issues dealing with certain types of input. Feel free to clone and experiment with the model, but know that the results may be underwhelming. You will need your own API keys for certain features. The process goes as follows:
 
 1. Upload a scanned image of handwritten notes to the tool.
 2. The OCR model will convert the handwritten text into digital format.
