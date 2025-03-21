@@ -4,7 +4,7 @@
 This repository contains a tool for recognizing and summarizing handwritten notes, specifically tailored for students. The project aims to bridge the gap between handwritten note-taking preferences and digital convenience by providing a solution that converts handwritten notes into digital text and generates concise summaries, with emphasis on highlighted segments.
 
 ## Contributors
-This was a group project for the ENSE412 - Machine Learning course at the University of Regina. Group members include:
+This was a group project for the ENSE412 Machine Learning course at the University of Regina. Group members include:
 - Brydon Herauf
 - Nathan Cameron
 - Meklit Alemu
@@ -12,7 +12,7 @@ This was a group project for the ENSE412 - Machine Learning course at the Univer
 ## Key Features
 - **OCR (Optical Character Recognition):** Convert handwritten notes into digital text.
 - **NLP (Natural Language Processing):** Generate summaries of handwritten notes, with emphasis on highlighted segments.
-- **Highlight Segmentation:** Identify and emphasize segments of the handwritten notes that are highlighted, aiding in the summarization process.
+- **Highlight Segmentation:** Identify parts of the handwritten notes that are highlighted, aiding in the summarization process.
 
 ## Usage
 This project was created with limited time and resources, and therefore has issues dealing with certain types of input. Feel free to clone and experiment with the model, but know that the results may be underwhelming. You will need your own API keys for certain features. The process goes as follows:
