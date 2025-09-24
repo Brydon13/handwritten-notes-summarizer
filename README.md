@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a tool for recognizing and summarizing handwritten notes, specifically tailored for students. The project aims to bridge the gap between handwritten note-taking preferences and digital convenience by providing a solution that converts handwritten notes into digital text and generates concise summaries, with emphasis on highlighted segments.
+This repository contains a tool for recognizing and summarizing handwritten notes, specifically tailored for students. The project aims to bridge the gap between handwritten note-taking preferences and digital convenience by providing a solution that converts handwritten notes into digital text and generates concise summaries, with an emphasis on highlighted segments.
 
 ## Contributors
 
@@ -27,7 +27,7 @@ This project was created with limited time and resources, and therefore has issu
 3. NLP will generate a concise summary of the notes, with emphasis on highlighted segments.
 4. Review and edit the generated summary as needed.
 
-Check out final-report.pdf for an example with our greatest results!
+Check out final-report.pdf for an example with our best results!
 
 Please note that this repository contains a collection of our most important scripts. If you are interested in running it, you will need to fill in some missing pieces.
 
