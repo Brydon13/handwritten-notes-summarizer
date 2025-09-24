@@ -7,5 +7,5 @@ This folder contains a collection of the most important scripts and utilities us
 - gptAPI.py - Communications with GPT for text correction and summarization
 - inferenceModel.py - Run existing OCR model on samples
 - model.py - OCR model architecture specifications
-- preprocess.py - A combination of line splitting, filtering, and highlight segementation
+- preprocess.py - A combination of line splitting, filtering, and highlight segmentation
 - train.py - OCR model training script
